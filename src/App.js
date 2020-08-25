@@ -9,7 +9,7 @@ function App() {
 				<img src={logo} className="App-logo" alt="logo" />
 				<p>Hi Docker Compose!</p>
 				<a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
-					WoW! Learn React
+					WoW! Learn React I was changed on the feature branch
 				</a>
 			</header>
 		</div>
